@@ -17,3 +17,9 @@ Make sure you have Python installed. Then run the script:
 
 ```bash
 python student_manager_oop.py
+
+📂 Output
+The program saves sorted student data to report.txt in UTF-8 format.
+
+✨ Author
+Leila — Retired math teacher transitioning into freelance Python development. Passionate about data analysis, educational tools, and building real-world projects.
